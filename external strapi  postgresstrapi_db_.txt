@@ -1,0 +1,1 @@
+external strapi : postgres://strapi_db_k6p8_user:N1SrhMHd3xd65yq1ukKoh3AGl6Nb7DeY@dpg-cm7aohi1hbls73a9r0u0-a.oregon-postgres.render.com/strapi_db_k6p8
